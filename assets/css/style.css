@@ -271,7 +271,7 @@ footer a {
 }
 
 .step h3 {
-    color: var(--primary-color));
+    color: var(--primary-color);
     font-size: 46px;
     flex: 1 30%;
 }
